@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^12.3",
+        "symfony/polyfill": "^1.32"
+    }
+}
